@@ -1,0 +1,13 @@
+#! /bin/sh -x
+
+OS=`uname -s`
+if [ "$OS" = "Darwin" ]
+then
+glibtoolize --copy --force --automake;
+else
+libtoolize --copy --force --automake;
+fi
+aclocal
+autoheader
+automake --add-missing --copy --foreign
+autoconf
