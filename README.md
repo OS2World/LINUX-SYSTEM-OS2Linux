@@ -5,7 +5,7 @@ The OS2Linux Project is a tool for porting OS/2 applications to Linux. OS2Linux 
 
 LICENSE
 ===============
-* GNU GPL V2
+* Common Public License
 
 COMPILE TOOLS
 ===============
