@@ -18,4 +18,4 @@ AUTHORS
 LINKS
 ===============
 * http://sourceforge.net/projects/os2linux/
-* http://os2linux.sourceforge.nte
+* http://os2linux.sourceforge.net
